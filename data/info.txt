@@ -1,0 +1,22 @@
+Struktura katalogu z danymi [dane przechowujemy w na Dysku Google, nie Githubie, bo się nie mieszczą]:
+./archive
+	chest_xray
+		chest_xray
+			test
+				NORMAL
+				PNEUMONIAL
+			train
+				NORMAL
+				PNEUMONIAL
+			val
+				NORMAL
+				PNEUMONIAL
+		test
+			NORMAL
+			PNEUMONIAL
+		train
+			NORMAL
+			PNEUMONIAL
+		val
+			NORMAL
+			PNEUMONIAL
